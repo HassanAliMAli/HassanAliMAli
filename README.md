@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanalimali" alt="hassanalimali" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/itzalm1ghty" target="blank"><img src="https://img.shields.io/twitter/follow/itzalm1ghty?logo=twitter&style=for-the-badge" alt="itzalm1ghty" /></a> </p>
+
 - 🔭 I’m currently working on **perfecting my Forex Trading skills.**
 
 - 🌱 I’m currently learning **Data Analytics.**
