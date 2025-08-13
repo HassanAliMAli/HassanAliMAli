@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itzalm1ghty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzalm1ghty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassanalimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hassan-ali-50667b152" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassanalimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hassan-ali-50667b152" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/m-hassan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="m-hassan-ali" height="30" width="40" /></a>
 <a href="https://dev.to/hassanalimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hassanalimali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itzalm1ghty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzalm1ghty" height="30" width="40" /></a>
