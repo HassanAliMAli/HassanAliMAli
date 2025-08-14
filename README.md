@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hassanali205031@gmail.com**
 
-- 📄 My Resume [https://github.com/HassanAliMAli/HassanAliMAli/blob/4f98eedb72676c68ea86649540bd1e95c60fe30d/HassanAli%23CV.png](https://github.com/HassanAliMAli/HassanAliMAli/blob/4f98eedb72676c68ea86649540bd1e95c60fe30d/HassanAli%23CV.png)
+- 📄 Check out [My Resume](#HassanAli-CV.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
